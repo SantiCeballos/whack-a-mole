@@ -1,5 +1,5 @@
 <template>
-  <div class="game">
+  <div class="game asd">
     <h2>Jugador: {{ playerName }}</h2>
     <p>Puntos: {{ score }}</p>
     <div>
